@@ -1,8 +1,8 @@
          <root>
             <name>Iframe Plugin</name>
-            <key>System name</key>
+            <key>IFRAME/key>
             <state>stable</state>
-            <logo>https://avatars3.githubusercontent.com/u/13663714?v=3&s=200</logo>
+            <logo></logo>
             <description>
                <short>
                   <en>Plugin create a iframe inside the GLPI.</en>
@@ -44,4 +44,4 @@ This plugin allows you to register links within the GLPI which are then presente
             <screenshots>
                              <screenshot>...</screenshot>
             </screenshots>
-         </root>      
+         </root>
