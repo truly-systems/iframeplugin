@@ -1,0 +1,47 @@
+         <root>
+            <name>Iframe Plugin</name>
+            <key>System name</key>
+            <state>stable</state>
+            <logo>https://avatars3.githubusercontent.com/u/13663714?v=3&s=200</logo>
+            <description>
+               <short>
+                  <en>Plugin create a iframe inside the GLPI.</en>
+                  <lang>...</lang>
+               </short>
+               <long>
+                  <en>
+This plugin allows you to register links within the GLPI which are then presented as iFrames within the GLPI own, without you having to leave the system. </en>
+                  <lang>...</lang>
+               </long>
+            </description>
+            <homepage>https://github.com/truly-systems/iframeplugin</homepage>
+            <download>https://github.com/truly-systems/iframeplugin/releases/tag/1.0</download>
+            <issues>https://github.com/truly-systems/iframeplugin/issues</issues>
+            <readme>https://github.com/truly-systems/iframeplugin/blob/master/README.md</readme>
+            <authors>
+               <author>Truly Systems</author>
+            </authors>
+            <versions>
+               <version>
+                  <num>1.0</num>
+                  <compatibility>0.90</compatibility>
+				  <compatibility>9.1</compatibility>
+               </version>
+            </versions>
+            <langs>
+               <lang>en_GB</lang>
+               <lang>...</lang>
+            </langs>
+            <license>LGPL v3+</license>
+            <tags>
+               <en>
+                  <tag>iframe</tag>
+               </en>
+               <lang>
+                  <tag>iframe</tag>
+               </lang>
+            </tags>
+            <screenshots>
+                             <screenshot>...</screenshot>
+            </screenshots>
+         </root>      
